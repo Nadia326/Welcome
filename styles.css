@@ -11,7 +11,7 @@ transform: scale(1.1, 1.1);
 }
 #house {
   z-index: 2;
-  margin: -650px auto 0px;
+  margin: -48% auto 0px;
 }
 .parallax {
     height: 100vh;
